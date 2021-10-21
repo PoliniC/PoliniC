@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Polini</h1>
 <h3 align="center">I'm from somalia.</h3>
 
-- 🤠 I’m currently working on **Somalia**
+- 🔧 I’m currently working on **DANONINO FC**
 
-- 🌱 I’m currently learning **How to hunt elephants**
+- 👃 I’m currently learning **TO BREATH UNDERWATER**
 
-- 🐵 I’m looking to collaborate on **Somalia V2**
+- 👳‍♂️ I’m looking to collaborate on **INDIA EXTERMINATION**
 
-- 🐘 I’m looking for help with **Lion Hunting**
+- 🐘 I’m looking for **A GIRL THAT LIKES ELEPHANT RIDING**
 
 
 <h3 align="left">Languages and Tools:</h3>
