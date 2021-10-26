@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Polini</h1>
 <h3 align="center">I'm from somalia.</h3>
 
-- 🔧 I’m currently working on **DANONINO FC**
+- 🔧 I’m currently working on **DANONINO**
 
 - 👃 I’m currently learning **TO BREATH UNDERWATER**
 
